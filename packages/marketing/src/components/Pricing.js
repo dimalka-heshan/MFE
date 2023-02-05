@@ -166,8 +166,7 @@ export default function Pricing() {
           with little customization.
         </Typography>
       </Container>
-      {/* End hero unit .  */}
-      
+      {/* End hero unit */}
       <Container maxWidth="md" component="main">
         <Grid container spacing={5} alignItems="flex-end">
           {tiers.map((tier) => (
